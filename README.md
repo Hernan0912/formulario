@@ -1,4 +1,4 @@
 Tecnologías usadas: HTML | CSS | JavaScript
 
-Link to netlify:
+Proyecto subido a Netlify:
 https://master--formsimulator.netlify.app/
